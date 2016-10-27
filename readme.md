@@ -6,7 +6,7 @@
 This is a simple application which includes a Lorem Ipsum Generator and a Random User Generator, with options to include birthdate and profile.
 
 ## Demo
-<>
+<https://www.youtube.com/watch?v=NFWpPwl-lMk>
 
 ## Outside code
 * Font used: https://fonts.googleapis.com/css?family=Open+Sans
