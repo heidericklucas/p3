@@ -4,7 +4,7 @@
 	<title>@yield('title', 'Developer\'s Best Friend')</title>
 	<meta charset='utf-8'>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-	<link rel='stylesheet' href='css/main.css' type='text/css'>
+	<link rel='stylesheet' href='css/style.css' type='text/css'>
 
 </head>
 	<body id="maincontent">
