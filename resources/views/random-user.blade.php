@@ -21,12 +21,13 @@
 	    <input type='hidden' name='_token' value='{{ csrf_token() }}'>
 	    <label for='paragraphs'>Number of users (Max 99): </label>
 	    <input type='text' name='number_of_users' maxlength='2' ><br>
+			<p>Check if you would like to include:</p>
+			<input  type='checkbox' name='dateOfBirth'>
+	    <label for='dateOfBirth'> Date of birth</label><br>
 
-	    <label for='dateOfBirth'> Date of Birth:</label>
-	    <input  type='checkbox' name='dateOfBirth'>
 
-	    <label for='profile'>Profile:</label>
-	    <input type='checkbox' name='profile'><br>
+			<input type='checkbox' name='profile'>
+	    <label for='profile'>Profile</label><br><br>
 	    <input type='submit' value='Generate!'>
 	</form>
 
